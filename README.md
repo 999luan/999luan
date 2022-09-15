@@ -1,7 +1,7 @@
 
 [![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/945094571616867748/680E4979CC75A2310664E0883F3F3FC6CBECA3BE/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)]
 <h1 align="center">Hi 👋, I'm Luan</h1>
-<img align="right" alt="coding-anime-people" width="300" src="https://i.pinimg.com/originals/39/82/8c/39828c7dab661d0a305b43744dd9745e.gif">
+<img align="right" alt="coding-anime-people" width="300" src="https://camo.githubusercontent.com/34fb3748dae76732f609255f7e0e4d1f85ff5850f5292827806568843bc52faf/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f33392f38322f38632f33393832386337646162363631643061333035623433373434646439373435652e676966">
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
 
