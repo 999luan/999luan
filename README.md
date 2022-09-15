@@ -5,11 +5,11 @@
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
 
-- 🔭 I’m currently working on **A personal game Dev project**
+- 🔭 I’m currently working on **A personal game dev project**
 
 - 🌱 I’m currently learning **React, TypeScript, NextJS**
 
-- 👯 I’m looking to collaborate on **BlockChain projects**
+- 👯 I’m looking to collaborate on **Web 3.0, or responsive Web projects**
 
 - 💬 Ask me about **Front end and AudioVisual**
 
