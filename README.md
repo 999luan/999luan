@@ -5,9 +5,9 @@
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
 
-- 🔭 I’m currently working on **TechNoobs**
+- 🔭 I’m currently working on **A personal game Dev project**
 
-- 🌱 I’m currently learning **React,TypeScript,Next**
+- 🌱 I’m currently learning **React, TypeScript, NextJS**
 
 - 👯 I’m looking to collaborate on **BlockChain projects**
 
