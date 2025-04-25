@@ -80,13 +80,4 @@
 </p>
 
 ---
-
-## 🧩 Toque Final: Arte em Pixel
-
-<p align="center">
-  <img src="https://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/35236159d3dd1c0.png" width="200px" />
-</p>
-
----
-
 > Em constante evolução. Obrigado por visitar! 🚀
