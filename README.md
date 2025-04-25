@@ -1,38 +1,92 @@
-![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/945094571616867748/680E4979CC75A2310664E0883F3F3FC6CBECA3BE/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
-<h1 align="center">[[Eu havia perdido acesso a este perfil, peço perdão pela falta de atualização, em breve vou atualizar os repositórios]]</h1>
-<h1 align="center">Hi 👋, I'm Luan</h1>
-<img align="right" alt="coding-anime-people" width="400" src="https://camo.githubusercontent.com/4deb95c58110b541f888f12da060052f3ee672a5cbe4610cb746939f76d216bf/68747470733a2f2f626c6f67646f6970686f6e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30322f39373338373032326435373964306439383036633863336531373634333466372e676966">
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<img src="https://steamuserimages-a.akamaihd.net/ugc/945094571616867748/680E4979CC75A2310664E0883F3F3FC6CBECA3BE/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="100%" />
 
+<h1 align="center">👾 Opa! Eu sou o Luan</h1>
+<h3 align="center">Desenvolvedor Frontend • Game Dev • Artesão Digital</h3>
 
-- 🔭 I’m currently working on **A personal game dev project**
-
-- 🌱 I’m currently learning **React, TypeScript, NextJS**
-
-- 👯 I’m looking to collaborate on **Web 3.0, or responsive Web projects**
-
-- 💬 Ask me about **Front end and AudioVisual**
-
-- 📫 How to reach me **luancsilva@protonmail.com**
-
-- ⚡ Fun fact **I'm literally addicted to learning things**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/luancmsilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luancmsilva" height="30" width="40" /></a>
-<a href="https://instagram.com/setimosol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="setimosol" height="30" width="40" /></a>
+<p align="center">
+  <i>“Criar experiências digitais vai além do código — é sobre transformar ideias em jornadas memoráveis.”</i>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<div display="flex" flex-wrap="wrap">
+## 🧠 Habilidades
 
+### 💻 Desenvolvimento Web
+- React · Next.js · TypeScript · Node.js
+- MongoDB · PostgreSQL
 
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=999luan&show_icons=true&locale=en" alt="999luan" /></p>
-<p><img a src="https://github-readme-streak-stats.herokuapp.com/?user=999luan&" alt="999luan" /></p>
+### 🎮 Desenvolvimento de Jogos
+- Unity · C# · Game Design
+- Godot · GDScript
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=999luan&show_icons=true&locale=en&layout=compact" alt="999luan" /></p>
-</div>
+### 🎨 Design & UX
+- UI/UX Design · Figma · Prototipagem
+- Design Thinking
 
+### 🛠️ Metodologias e Soft Skills
+- Scrum · Ágil · Gestão de Projetos
+- Resolução de Problemas · Inovação Tecnológica
 
+---
+
+## 📌 Experiência em Destaque
+
+### 🧱 Desenvolvimento Full Stack
+> 2 anos criando soluções completas e escaláveis para diferentes plataformas.
+
+### 🎮 Game Dev
+> 3 anos de dedicação ao desenvolvimento de jogos indie, com foco em mecânicas criativas e experiências imersivas.
+
+### 🎨 Frontend
+> 5 anos entregando interfaces modernas, responsivas e voltadas para a experiência do usuário.
+
+### 🧵 Design de Experiências
+> Especializado em criar jornadas digitais intuitivas, com uma abordagem detalhista e centrada no usuário.
+
+### ✨ Artesanato Digital
+> Desenvolvimento com carinho, atenção aos detalhes e foco na qualidade do resultado.
+
+---
+
+## 🔧 Tech Stack Visual
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
+</p>
+
+---
+
+## 📬 Contato
+
+- Email: [luancsilva@protonmail.com](mailto:luancsilva@protonmail.com)
+- LinkedIn: [luancmsilva](https://linkedin.com/in/luancmsilva)
+
+---
+
+## 📊 Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=999luan&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=999luan&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=999luan&layout=compact&theme=tokyonight" alt="langs" />
+</p>
+
+---
+
+## 🧩 Toque Final: Arte em Pixel
+
+<p align="center">
+  <img src="https://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/35236159d3dd1c0.png" width="200px" />
+</p>
+
+---
+
+> Em constante evolução. Obrigado por visitar! 🚀
