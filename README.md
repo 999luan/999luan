@@ -4,7 +4,7 @@
 <h3 align="center">Desenvolvedor Frontend • Game Dev • Artesão Digital</h3>
 
 <p align="center">
-  <i>“Criar experiências digitais vai além do código — é sobre transformar ideias em jornadas memoráveis.”</i>
+  <i>"A criação é a ponte entre o finito e o infinito — cada linha de código, cada pixel, cada interação é um passo em direção ao impossível."</i>
 </p>
 
 ---
@@ -18,6 +18,11 @@
 ### 🎮 Desenvolvimento de Jogos
 - Unity · C# · Game Design
 - Godot · GDScript
+- C++ · Unreal Engine
+
+### 🤖 Inteligência Artificial
+- Pesquisa em IA · Machine Learning
+- Desenvolvimento de Algoritmos
 
 ### 🎨 Design & UX
 - UI/UX Design · Figma · Prototipagem
@@ -40,6 +45,9 @@
 ### 🎨 Frontend
 > 5 anos entregando interfaces modernas, responsivas e voltadas para a experiência do usuário.
 
+### 🤖 Pesquisa em IA
+> Desenvolvimento de projetos e pesquisas na área de Inteligência Artificial como hobby.
+
 ### 🧵 Design de Experiências
 > Especializado em criar jornadas digitais intuitivas, com uma abordagem detalhista e centrada no usuário.
 
@@ -59,7 +67,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" />
 </p>
 
 ---
